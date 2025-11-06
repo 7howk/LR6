@@ -8,26 +8,26 @@
 2. Сделать копию в личное хранилище 
 3. Установка Git (уже был установлен)
 4. Настроить клиент Git (уже был настроен)
-<img src="images/1.jpg">
+<img src="images/1.png">
 5. Клонировать свой личный удалённый репозиторий на компьютер 
-<img src="images/2.jpg">
+<img src="images/2.png">
 6. Подтянуть изменения
-<img src="images/3.jpg">
+<img src="images/3.png">
 7. История операций для каждой из веток
-<img src="images/4.jpg">
+<img src="images/4.png">
 8. Последние изменения
-<img src="images/5.jpg">
+<img src="images/5.png">
 9. Слияние
-<img src="images/6.jpg">
+<img src="images/6.png">
 10. Удалить ветку
-<img src="images/branch.jpg">
+<img src="images/branch.png">
 11. Изменения и их фиксация
-<img src="images/7.jpg">
+<img src="images/7.png">
 12. Откат коммита
-<img src="images/8.jpg">
+<img src="images/8.png">
 
 13. Ветка для отчета и создание README.md
-<img src="images/9.jpg">
+<img src="images/9.png">
 14. История операций 
 <img src="images/10.png">
 
